@@ -1,0 +1,4 @@
+Pasta=C:\Teste
+Sucesso=C:\Teste\Processado
+RotaAutomatica=false
+
